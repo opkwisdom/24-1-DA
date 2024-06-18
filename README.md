@@ -4,7 +4,8 @@ ___
   <img src="https://github.com/opkwisdom/24-1-DA/assets/106043013/c2721b4d-276d-462f-b5c8-70b57db7cf7b">
 </div>
 
-<h3>[LSP (Latent Script Possibility)]<br></h3>
+<h3>[LSP (Latent Script Possibility)]</h3><br>
+
 $S^* = \underset{s' \subseteq s}{\arg\max} Q(S')$
 
 $Q(S') = INT(S') + CV(S') + SV(S') + PROP(S')$<br>

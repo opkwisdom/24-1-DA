@@ -1,4 +1,4 @@
-# 🚀 24-1 DA : Modernize and Dramatize Classic Literature
+# 🚀 24-1 DA : Modernize and Dramatize Classical Novels
 ___
 <div class="image-container">
   <img src="https://github.com/opkwisdom/24-1-DA/assets/106043013/c2721b4d-276d-462f-b5c8-70b57db7cf7b">
@@ -13,16 +13,19 @@ $Q(S') = INT(S') + CV(S') + SV(S') + PROP(S')$<br>
 ## Develeopment Period
 ___
 2024.04.15 ~ 2024.05.31
-<br>
+<br><br>
+
 ## Team
 ___
 **24-1 P-SAT 33th NLP Team**
 * Member: 한준호, 윤세인, 김나현, 윤여원, 권능주
 <br>
+
 ## Project Description
 ___
-#### **🎉24-1: Modernize and Dramatize Classic Literature🎉**
-**This project is consisted of two parts.**<br>
+#### **🎉24-1: Modernize and Dramatize Classical Novels🎉**
+**This project is the first study to explore the possibility of dramatizing classical novels**<br>
+**This project is composed of two parts.**<br>
 **1. Modernize Classic Literature**<br>
 **2. Extract LSP**<br>
 **LSP is a custom evaluation of scriptability**<br>
@@ -33,6 +36,7 @@ In this project, version of packages is as follows
 * Selenium: 4.14.0
 * Pandas: 2.1.4
 * Numpy: 1.26.3
+<br>
 
 ## ⚡ Stacks
 ___

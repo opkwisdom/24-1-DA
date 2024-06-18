@@ -13,11 +13,12 @@ $Q(S') = INT(S') + CV(S') + SV(S') + PROP(S')$<br>
 ## Develeopment Period
 ___
 2024.04.15 ~ 2024.05.31
-
+<br>
 ## Team
 ___
 **24-1 P-SAT 33th NLP Team**
-
+* Member: 한준호, 윤세인, 김나현, 윤여원, 권능주
+<br>
 ## Project Description
 ___
 #### **🎉24-1: Modernize and Dramatize Classic Literature🎉**

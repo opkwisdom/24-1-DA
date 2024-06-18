@@ -1,7 +1,7 @@
 # 🚀 24-1 DA : Modernize and Dramatize Classic Literature
 ___
 <div class="image-container">
-  <img src="https://private-user-images.githubusercontent.com/106043013/340172573-c2721b4d-276d-462f-b5c8-70b57db7cf7b.png">
+  <img src="https://github.com/opkwisdom/24-1-DA/assets/106043013/c2721b4d-276d-462f-b5c8-70b57db7cf7b">
 </div>
 
 ## Develeopment Period

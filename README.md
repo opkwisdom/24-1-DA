@@ -10,6 +10,11 @@ $S^* = \underset{s' \subseteq s}{\arg\max} Q(S')$
 
 $Q(S') = INT(S') + CV(S') + SV(S') + PROP(S')$<br>
 
+* $INT(S')$: Interaction Score of Scene
+* $CV(S')$: Character Variation Score of Scene
+* $SV(S')$: Sentiment Variation Score of Scene
+* $PROP(S')$: Content Proportion of Scene
+
 ## Develeopment Period
 ___
 2024.04.15 ~ 2024.05.31
